@@ -1,2 +1,2 @@
 # FATEC-JCR-2DSM-BDR-2026-1-WilliamMax
-Repositório para entregas de atividade da matéria de DB_relacional-FATEC 2026.1
+ Disciplina de Banco de Dados Relacional – 2º semestre DSM – 2026/1
